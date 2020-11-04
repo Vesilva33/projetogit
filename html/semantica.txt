@@ -1,0 +1,62 @@
+semantica
+
+<section> um secção generica de assuntos 
+<header> cabeçalho da pagina
+<article> conteudo relevante
+<aside> conteudo relacionado link relacionado
+<footer>rodape da pagina
+<h1><h6>
+
+
+texto e links
+
+<h1> titulo da pagina</h1>
+<h2> titulo de seção</h2>
+<h3> titulo de artigo</h3>
+<p>conteudo do artigo</p>
+
+
+<a>link </a>
+<a href="linkedin.com/in/vilaboim">linkedIn</a>
+<a href="mailto:lucas@vilaboim.com">E-mail</a>
+
+<a target="black">link</a>
+
+
+
+
+imagem
+
+
+<img>
+<img src="img/avatar.jpg">
+<img alt="foto de verusca">
+
+
+
+
+
+listas ul ol li
+
+
+<ul>
+lista ordem não e importante
+
+<ol>
+ordem importante 
+
+<li> e a propria lista
+
+
+introdução ao css3
+
+
+grupo de seletores  a,p,h1,h3
+
+<header id="header" class="headear"></header>
+<header class="header"></header>
+
+
+Id x classe
+classe .
+id  # so pode ser usado uma vez no site
